@@ -1,0 +1,32 @@
+.hero {
+	background-image: url(../../images/hero-bg.png);
+	background-size: 101%;
+	background-repeat: no-repeat;
+	width: 100%;
+	padding: 150px 65px;
+	border-radius: 14px;
+}
+.hero__content {
+	max-width: 500px;
+}
+
+.hero__content > h1 {
+	color: #fff;
+	margin-bottom: 40px;
+}
+
+.hero__content > a {
+	color: #fff;
+	background-color: #fc8b40;
+	font-weight: 500;
+	font-size: 17px;
+	line-height: 25px;
+	padding: 17px 25px;
+	border-radius: 16px;
+}
+
+.hero__title {
+	font-weight: 600;
+	font-size: 42px;
+	line-height: 48px;
+}

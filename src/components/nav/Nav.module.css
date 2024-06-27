@@ -1,0 +1,25 @@
+nav {
+	padding-top: 20px;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.nav__item > a {
+	font-weight: 500;
+	font-size: 17px;
+	line-height: 22px;
+	color: #a0a8b1;
+	background-color: transparent;
+	padding: 9px 16px;
+	border-radius: 16px;
+	transition: all 0.3s ease;
+}
+
+.nav__item > a:hover {
+	color: #fff;
+	background-color: #fc8b40;
+}

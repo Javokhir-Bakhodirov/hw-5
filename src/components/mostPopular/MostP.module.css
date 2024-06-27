@@ -1,0 +1,15 @@
+.mostP__game {
+	/* display: grid;
+	gap: 10px;
+	grid-template-columns: repeat(6, 1fr); */
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.most__s {
+	padding-top: 40px;
+}
+
+.mostP__content {
+	width: 220px;
+}
